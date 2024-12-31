@@ -1,5 +1,5 @@
 ### Ovidiu Alexandrescu
-#### Frontend Developer
+**Frontend Developer** 
 
 -   🖌️ Crafting UIs since 2002 (yes, back in the IE6 days!)
 -   👀 Trained to spot and build flawless UIs
