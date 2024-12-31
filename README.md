@@ -1,9 +1,9 @@
-## Ovidiu Alexandrescu
+### Ovidiu Alexandrescu
 
-### Frontend Developer
+#### Frontend Developer
 
 -   🖌️ Crafting UIs since 2002 (yes, back in the IE6 days!)
--   👀 Trained to spot and build flawless user interfaces
+-   👀 Trained to spot and build flawless UIs
 -   ⚛️ React.js is my happy place
 -   🎮 Aspiring game developer in the near future
 -   🌱 Passionate about sharing knowledge with eager, unbiased learners
